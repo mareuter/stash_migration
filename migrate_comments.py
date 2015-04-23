@@ -65,6 +65,8 @@ if __name__ == "__main__":
     if manual_assocs is not None:
         print("Number of manual associations:", len(manual))
 
+    comment_count = 0
+
     # Migrate to Github!
     gh = migration.get_login(token_file)
     for pr_id in pull_requests:
@@ -87,13 +89,16 @@ if __name__ == "__main__":
 
         # Build initial PR comment
         pr_comment = "%s\n%s" % (pull_requests[pr_id]["title"], pull_requests[pr_id]["description"])
-
+        comment_count += 1
         if not no_migration:
             migration.add_comment(gh, organization, repo_name, merge_sha, merges[merge_sha]["user"],
                                   pr_comment, None, None)
 
         # Now go through all the PR comments
         for comment in pull_requests[pr_id]["comments"]:
+            comment_count += 1
             if not no_migration:
                 migration.add_comment(gh, organization, repo_name, merge_sha, comment[0], comment[1],
                                       comment[2], comment[3])
+
+    print("Number of comments:", comment_count)
