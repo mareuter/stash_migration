@@ -1,0 +1,24 @@
+60e429c3188cb01e1a21a249eaa48fb0e59cf884 danielsf Merge branch 'feature/SIM-90-use-palpy'
+27688ba5a541991371285adbaffdcf7ab975e7c3 danielsf Merge branch 'feature/SIM-943-move-utility-functions'
+cdf0957ed067810c4aea87733a963f7d736f4bdc danielsf Merge branch 'bugfix/CATSIM-189-fix-parallax-units-consistently'
+f9ba9378b7c333f6e5d73ef0ceabbf2e336b5253 danielsf Merge branch 'feature/CATSIM-159-galsim-galaxy-images'
+8df0efcf4d133f4f4ef512a69970f4ec8f606165 danielsf Merge branch 'feature/CATSIM-151-split-astrometry-and-photometry'
+899e720a9e9f3e1004152b51ef2affdf0f450444 danielsf Merge branch 'bugfix/CATSIM-211-rotskypos-in-radians'
+4c96225e2312cd76af42339fc17c21d2a7fa6e44 danielsf Merge branch 'bugfix/CATSIM-179-phoSim-test-is-null'
+d54b26a94b25a142b557b785c844a9dbdf395db5 danielsf Merge branch 'bugfix/CATSIM-171-fix-parallax-units'
+ed37e9d3bd427609465827e3dcaedd8c1b21041d danielsf Merge branch 'feature/CATSIM-147-generalize-findchipname'
+712061c45eed7019f18fa60758e26bfd3e9b50b7 danielsf Merge branch 'bugfix/CATSIM-142-add-all-to-modules'
+3a47187927ed0a20ae3185ffc2f9cc8ffab34e0a danielsf Merge branch 'bugfix/CATSIM-139-unittest-variable-scope'
+c92608cda677ee36e8680bf3b0b0351f77ce4e51 danielsf Merge branch 'bugfix/CATSIM-144-cleanup-astrometry'
+82fd0ad134f081be6575a9adf32b5bc286552838 danielsf Merge branch 'feature/CATSIM-130-update-bounds-API'
+2705dbc1731606b3d0031b73b5cfe0e61d231dc7 danielsf Merge branch 'feature/CATSIM-99-refactor-DBObject'
+93e2e2d77802786dbf9869765bdeff4aeac31066 danielsf Merge branch 'feature/CATSIM-132-split-focal-plane-getters'
+2fd2ec976138b3c38284bad290f81fc7f9e1bedf danielsf Merge branch 'bugfix/CATSIM-108-remove-trim'
+aa082ca88a1674065721e932c1aea78a9b74914e danielsf Merge branch 'bugfix/CATSIM-103-update-obsMetaData'
+2911e2ee2021913ef19eb05b47138eb915e83278 danielsf Merge branch 'feature/CATSIM-102-create-ebv-utils-that-can-be-accessed'
+c19a0a0842cad94ece56098abd254e0006864d94 Simon Krughoff Merge pull request #5 in SIM/sims_coordutils from feature/CATSIM-24-generate-camera-model-for-catsim to master
+7cf69d416020c4c0af441e593f4930b717e6eb12 Simon Krughoff Merge pull request #3 in SIM/sims_coordutils from feature/CATSIM-33-database-unit-tests to master
+30d2ed04f6e8c3338e5b3beae33cbe75c70f5447 Simon Krughoff Merge branch 'feature/CATSIM-24-generate-camera-model-for-catsim' of https://stash.lsstcorp.org/scm/sim/sims_coordUtils into feature/CATSIM-24-generate-camera-model-for-catsim
+308655a2e40cf4155c2cf668f1106802f4675830 Simon Krughoff Merge pull request #4 in SIM/sims_coordutils from ~DANIELSF/sims_coordutils:u/danielsf/fix_pupil_coords to feature/CATSIM-24-generate-camera-model-for-catsim
+9b40a93b1e99a8a54dd2139ceeebe96445ff201c Simon Krughoff Merged CATSIM-33
+175522219e5f8026e781b0dd8190c6c4dc524256 danielsf This should have ported over the histories

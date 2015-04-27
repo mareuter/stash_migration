@@ -1,0 +1,40 @@
+cea3eceb9ee4100f4ba36fe2cdba2897dcc980f5 Michael Reuter Merge pull request #32 in SIM/sims_operations from feature/SIM-908-write-script-for-opsim-documentation to master
+736b35f60795eb2a8fa32dd4c93145c6dab1f7a8 Michael Reuter Merge pull request #33 in SIM/sims_operations from bugfix/SIM-1061-fix-bug-in-getting-rottelpos-in to master
+12cf0a756229821538a776b08938bf538f19020c Michael Reuter Merge pull request #31 in SIM/sims_operations from feature/SIM-989-expand-size-of-paramvalue-in-config to master
+a13c22ff3f5a06dd1ab553372b29b74d24a026f4 Cathy Petry Merge pull request #30 in SIM/sims_operations from feature/SIM-972-change-sciencetype-tag-in-default to master
+75967f0224a4782678ea275e23e1cbf19952fa20 Michael Reuter Merge pull request #28 in SIM/sims_operations from feature/SIM-918-include-rottelpos-in-opsim-summary to master
+df6dbd6c791f2a39fa0d80ecb37c8cc6b1925c59 Michael Reuter Merge pull request #29 in SIM/sims_operations from feature/SIM-960-remove-execution-page-from-documentation to master
+61077f1599752001464d63ea3c80e0f1454fbad8 Michael Reuter Merge pull request #27 in SIM/sims_operations from feature/SIM-386-create-a-switch-to-enable-disable to master
+0c5980de51c0feaddba1aeab7863686582c667fc Michael Reuter Merge pull request #26 in SIM/sims_operations from bugfix/OPSIM-715-modifyschema-fails-when-summary to master
+7931e67beadc11254a09d838071d05f45634d43c Michael Reuter Merge pull request #20 in SIM/sims_operations from bugfix/OPSIM-676-fix-config-default-in-usage-statement to master
+70e186918e4f3d7a5cade89ccda77b9a8eed8ace Michael Reuter Merge pull request #25 in SIM/sims_operations from bugfix/OPSIM-713-fix-path-trap-condition to master
+adcb3b34d317ae4ff46bd08932cccbdca2225cd9 Michael Reuter Merge pull request #23 in SIM/sims_operations from bugfix/OPSIM-711-fix-path-override-for-eups-build to master
+e8da15704742a00a692268d79fa34db02908d1de Michael Reuter Merge pull request #24 in SIM/sims_operations from bugfix/OPSIM-709-docs-fail-to-build-on-eups-build to master
+f5709c3a7ce164760f3dc4b6d4f818ef97c7355e Michael Reuter Merge pull request #22 in SIM/sims_operations from bugfix/OPSIM-708-remove-envset-from-eups-table to master
+669563b4f2760e2e26935b854289ad1665698cf4 Michael Reuter Merge branch 'master' into bugfix/OPSIM-708-remove-envset-from-eups-table
+b131f6e0eadca8aea29a836b8c06b56f0173f73f Michael Reuter Merge pull request #21 in SIM/sims_operations from bugfix/OPSIM-677-fix-documentation-for-existing to master
+82991a2930897ed4ac70bd9c0b2f5781cbbdb41c Michael Reuter Merge branch 'master' into bugfix/OPSIM-677-fix-documentation-for-existing
+f23b7c5ccb2ed7a27c4d9a58aaacc53749b76221 Michael Reuter Merge pull request #19 in SIM/sims_operations from bugfix/OPSIM-675-fix-eups-and-local-installations to master
+3b62b448c29093b1f3bba078573ef986da56e382 Michael Reuter Merge pull request #18 in SIM/sims_operations from feature/OPSIM-636-capture-git-repo-tag-into-config to master
+a686dfac49f99375bbb5159bab8e930dd2b5f500 Michael Reuter Merge pull request #17 in SIM/sims_operations from bugfix/OPSIM-674-conversion-tool-db-connection-fix to master
+3193ac2237abdc789d7d6c628edb94342a1d9105 Michael Reuter Merge pull request #16 in SIM/sims_operations from feature/OPSIM-671-use-opsim_hostname-env-variable to master
+9f085d22bd16abb345b74974ff66e7b3d7b9b797 Michael Reuter Merge pull request #11 in SIM/sims_operations from feature/OPSIM-624-make-opsim-a-distributable-eups to master
+e41fc61d5a3b0a459b6a7a5c07ddd295cd840d23 Michael Reuter Merge branch 'master' into feature/OPSIM-624-make-opsim-a-distributable-eups
+788f40224bc332df5bcfe980c768d212b339a31b Michael Reuter Merge pull request #15 in SIM/sims_operations from feature/OPSIM-672-change-version-number to master
+6aee4a3c9f211b8530a5b26ebcde9338be480971 Michael Reuter Merge pull request #14 in SIM/sims_operations from feature/OPSIM-673-update-release-notes to master
+62531dba879f0aba4658992f72febf638e74f020 Michael Reuter Merge pull request #13 in SIM/sims_operations from bugfix/OPSIM-670-put-hostname-and-username-back to master
+98689fd95f79b108d164454e32327e05a53bfffa Michael Reuter Merge pull request #12 in SIM/sims_operations from bugfix/OPSIM-642-fix-visitTime-visitExpTime to master
+abbef6c34b61c632d4a06503b8e3bb3c702f9022 Michael Reuter Updating to current changes.
+67906a3144643bcbfc56da908589987dbd360a22 Michael Reuter Merge pull request #10 in SIM/sims_operations from feature/OPSIM-651-update-version-tag-in-main.py to master
+3558b5a4cab15934886055d45e5bbf62b277e8a5 Lynne Jones Merge pull request #8 in SIM/sims_operations from feature/OPSIM-640-commit-conversion-tool-and-gen_output to master
+61edd10d86693a86ae3829908069b0c8fc6a7319 Kem Cook Merge pull request #9 in SIM/sims_operations from feature/OPSIM-569-commit-new-default-config-files to master
+b1bd690e087e957b03011db49974f3e1124823fe Michael Reuter Fix gitignore merge conflict.
+b2745135f2d9fdcbb923aea84988e1b779465569 Simon Krughoff Merge branch 'feature/OPSIM-624-make-opsim-a-distributable-eups' of https://stash.lsstcorp.org/scm/sim/sims_operations into feature/OPSIM-624-make-opsim-a-distributable-eups
+9ba1f51308bf9ffa770a6ecdd08a3c85afcbcf4a Srinivasan Chandrasekharan Merge pull request #6 in SIM/sims_operations from feature/OPSIM-151-slalib-to-palpy to master
+a0b7a5cb123dd63e06a06f647b735ab82c6b8323 Srinivasan Chandrasekharan Merge pull request #7 in SIM/sims_operations from bugfix/OPSIM-504-transient-subsequence-proposals to master
+3bb9ec964f4b4796e5d716ffd58e39d959c0f48e Srinivasan Chandrasekharan Merge branch 'master' of https://stash.lsstcorp.org/scm/sim/sims_operations
+1fdbf25659a731ac4bfc39d2943b170d3fb01693 Srinivasan Chandrasekharan Merge pull request #5 in SIM/sims_operations from bugfix/OPSIM-328-fix-ra-limit to master
+374b07cba52700a7d35ee56f4a247d4ac7ab0813 Francisco Delgado Merge pull request #4 in SIM/sims_operations from bugfix/OPSIM-404-simulator-dies-no-active-proposals to master
+68c4ef3449c35ffbca15736f597c4593dd464eeb Srinivasan Chandrasekharan Merge pull request #3 in SIM/sims_operations from bugfix/OPSIM-328-create-ra-limit to master
+84a162e633d0a5edb68c06bce04a5cd8eabe58bb Srinivasan Chandrasekharan Merge pull request #2 in SIM/sims_operations from feature/OPSIM-388-nRun to master
+82c6e9ed3c440020bafaecd990ae0b7c626111b0 Srinivasan Chandrasekharan Merge pull request #1 in SIM/sims_operations from feature/OPSIM-328-ra-limit to master

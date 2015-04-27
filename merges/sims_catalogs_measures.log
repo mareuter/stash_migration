@@ -1,0 +1,26 @@
+ba52dbd125cc754ea5e2c0180105ca26332d06e6 danielsf Merge branch 'bugfix/CATSIM-95-ra-and-dec-keywords-in-the-metadata'
+74d300204de180e9d5a5c6d29329d22fb153d389 danielsf Merge branch 'feature/CATSIM-130-update-bounds-API'
+29e70312ae825d3718b3fb82ed4bbccf56e4c948 danielsf Merge branch 'feature/SIM-1037-only-calculate-requested-magnitudes'
+863d38f50825f6e1430c44d8e6faa708fa357f59 Rahul Biswas Merge pull request #18 in SIM/sims_catalogs_measures from feature/SIM-1036-column-arg-in-InstanceCatalog to master
+99e633108e57775bfe081ae6dff95ac675bca04e danielsf Merge branch 'feature/SIM-993-unicode-is_null'
+f07f0c61b04403c8bc428bc7dab00c47dffdd716 danielsf Merge branch 'feature/SIM-943-move-utility-functions'
+cda82b22c8f605e64fa3140b7bcb78dd5c2cfde9 danielsf Merge branch 'feature/CATSIM-151-split-astrometry-and-photometry'
+0936520c97091a7d289315306a882e599e7f95ea danielsf Merge branch 'bugfix/CATSIM-211-rotskypos-in-radians'
+ac383202b7dad10cb8e5621ecb03b70d084a8f80 danielsf Merge branch 'feature/CATSIM-159-galsim-galaxy-images'
+ee07a93062cb386fd3ec5cc0a6ee4c9e482df0ce danielsf Merge branch 'bugfix/CATSIM-179-phoSim-test-is-null'
+6cae647c5575eb1784fe871adb8aa3964f7b78a3 danielsf Merge branch 'bugfix/CATSIM-142-add-all-to-modules'
+426128905dedcc37115143eed3d87923e8299f63 danielsf Merge branch 'bugfix/CATSIM-139-unittest-variable-scope'
+6c9cadf211f77f3a512098a882182059255ddbe8 danielsf Merge branch 'feature/CATSIM-91-simplify-phoSim-input'
+03f7278ee9c173d741f2d8db27bfb9fcb336b4b5 danielsf Merge branch 'feature/CATSIM-99-refactor-DBObject'
+2508ac3aedec9d2f656fc95c11810d25b09d871a danielsf Merge branch 'bugfix/CATSIM-103-update-obsMetaData'
+ac04eb8777f5feb20c608007ed586f9d24b02c35 danielsf Merge branch 'feature/CATSIM-122-print-column-origins'
+4f4a754a434c85d91c09844cd71b896500ce804b danielsf Merge branch 'bugfix/CATSIM-113'
+1b1ebd3de5fe3663f9b368db786938640c6ed5c5 Simon Krughoff Merge pull request #3 in SIM/sims_catalogs_measures from feature/CATSIM-33-database-unit-tests to master
+3a3fe43193641c3eb0160c48b247ceb460ecc98b Simon Krughoff Merge branch 'master' of https://stash.lsstcorp.org/scm/sim/sims_catalogs_measures into feature/CATSIM-33
+8745b21ae3285e2438bd38b25269eb3250ba923b Simon Krughoff Adding decorators.py back to measures where it belongs. Merge branch 'master' of ../coordUtils into feature/CATSIM-33
+2f9b11cd05c8fb678e95d0282ceccc7cea74b5a5 danielsf moved SedSet.py and BandpassSet.py to sims_photUtils
+680bd1750dd1c046d9fa7e4d692420f86b979b75 danielsf This should have ported over the histories
+0193ea3911053a751c19f94997c93382bfe88225 danielsf Merge branch 'JIRA_CATSIM_6' into catsim_6_slalib_replacement
+819981996bd021acd899f87f8f5e002b0d3f292f Simon Krughoff Merge branch 'tickets/3015'
+435dbf5504a95e5c5d1d58525fbc5452086597fd Simon Krughoff Merge branch 'master' into u/vanderplas/instance_rewrite
+abf7cb65c8e29c1b8c2b30af9b3ca1a2a6cb6e51 Andrew Connolly Merge branch 'u/vanderplas/instance_rewrite' of git.lsstcorp.org:LSST/sims/catalogs/measures into u/vanderplas/instance_rewrite

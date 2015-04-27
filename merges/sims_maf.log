@@ -1,0 +1,242 @@
+12d8facd7268badb46d58b0cc800093647a6ce30 Lynne Jones Merge pull request #89 in SIM/sims_maf from feature/SIM-1126-bugfix-for-_rotateangles to master
+64a8f7d5a8c037f7c654e71ee549d2d8ce74ccbc Lynne Jones Merge pull request #88 in SIM/sims_maf from feature/SIM-1109-create-utility-to-fetch-and-write to master
+3aa7df071ed06d0e636cf7f9ef09d1a37f767e94 Lynne Jones Merge pull request #87 in SIM/sims_maf from feature/SIM-901-prepare-tag to master
+23ba36390b6aca7b7d98775ab248c35089ecafd6 Lynne Jones Merge pull request #86 in SIM/sims_maf from feature/SIM-901-prepare-tag to master
+aeef1c70a13a51bc9ef99b7258c0058e93a30baf Lynne Jones Merge branch 'master' into feature/SIM-901-prepare-tag
+ba7302ce88c192305a757442bca7abe48d6cd135 Peter Yoachim Merge pull request #84 in SIM/sims_maf from feature/SIM-1004-generic-transients-metric-for-maf to master
+14f43d338e80a20102db72959f5563a8c2aff84c Peter Yoachim Merge pull request #85 in SIM/sims_maf from feature/SIM-1040-use-webbrowser-with-showmaf.py to master
+bcee60b8a5e3a021aac2ccde86fc379b32a9f1f0 Lynne Jones Merge pull request #83 in SIM/sims_maf from feature/SIM-978-utility-for-requested-visits to master
+ac957b4852b22bcb6f3114f9d8355120d907d2ff danielsf Merge branch 'feature/SIM-943-move-utility-functions'
+7caaa8e7b260df22b6345fefdc4fae9dd3486118 Peter Yoachim Merge pull request #82 in SIM/sims_maf from feature/SIM-981-quick-replotting-failure-if-no-sql to master
+524b427c0f6ac0693855c724e8befcdb48551622 Lynne Jones Merge pull request #79 in SIM/sims_maf from feature/SIM-905-movie-horizons to master
+e25c713a6709c3c65f274d3fdf56704607802420 Peter Yoachim Merge pull request #80 in SIM/sims_maf from feature/SIM-944-quick-replotting-in-maf to master
+0a46e4ef31d450acfe9affcce83a812efb4f2e97 Lynne Jones Merge pull request #78 in SIM/sims_maf from feature/SIM-910-gawiser-dithers to master
+ef538cefdcb6cad0d39120f3749a5688fa7c9696 Lynne Jones Merge pull request #75 in SIM/sims_maf from feature/OPSIM-710-update-util.sqlwhere-to-handle to master
+1d199adc66368558ac6c679c0aee64813f107ddc Lynne Jones Merge pull request #77 in SIM/sims_maf from feature/OPSIM-movie to master
+13bd3d1e6cbb3276f17189d9111a4f8de7fa7751 Lynne Jones Merge pull request #76 in SIM/sims_maf from feature/OPSIM-696-add-nightly-dither-stacker to master
+6eb5547ceae0f2277bfa78bc9975a743c6982677 Peter Yoachim Merge pull request #74 in SIM/sims_maf from feature/custom-pointings-slicer to master
+14d40875221832813e903afd8fadd382dbeb4f8b Lynne Jones Merge pull request #72 in SIM/sims_maf from feature/OPSIM-669-clean-up-sstar to master
+7858cb1d84c80308ac2a326f739fc9b3a81fd2fb Peter Yoachim Merge pull request #73 in SIM/sims_maf from feature/OPSIM-678-check-the-chip-gaps-are-being-put to master
+cadb5f564f45603cb713fd54a8319c2f05ea74e6 Peter Yoachim Merge pull request #70 in SIM/sims_maf from feature/OPSIM-124-add-focal-plane-model to master
+2be1b293134956d62781286c6c7bfd0286b7bf01 Lynne Jones Merge pull request #71 in SIM/sims_maf from feature/OPSIM-626-add-subseq-interval-and-to-config to master
+7292259c8c6ca7437b13cac71fdc8023a085d362 Peter Yoachim Merge pull request #69 in SIM/sims_maf from feature/OPSIM-615-slew-stats-to-sstar-config to master
+3f2f315fa3053233af978ddbce366a7334c60bca Peter Yoachim Merge branch 'master' into feature/OPSIM-615-slew-stats-to-sstar-config
+622e39550a07b4827173b8e0baad63fb89ec1269 Peter Yoachim Merge pull request #68 in SIM/sims_maf from feature/OPSIM-28-values-for-lat-lon-should-match to master
+856be4fcda5110b7de6372bb2bf4a893dd534e9f Peter Yoachim Merge branch 'feature/OPSIM-615-slew-stats-to-sstar-config' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-615-slew-stats-to-sstar-config
+fe31c9b280645a5dd5a7cf28d49ea4ffeed18009 Peter Yoachim Merge pull request #66 in SIM/sims_maf from feature/OPSIM-502-create-prototype-movie-slicer to master
+b4672654e643cb0208e6826ce08ae4fba7eac70f Peter Yoachim Merge pull request #67 in SIM/sims_maf from feature/OPSIM-610-write-instructions-for-porting to master
+fea4eb342f333ede94ec521a6d353079c305d8bf Peter Yoachim resolve conflicts
+237f6e18ff3280ea564022119ed38b3901abd405 Peter Yoachim Merge pull request #65 in SIM/sims_maf from feature/OPSIM-613-leave-blank-space-for-missing-plots to master
+c91f9ddf738fcf5d6e1a6030e1aa0b6cc1172cbe Peter Yoachim Merge pull request #63 in SIM/sims_maf from feature/OPSIM-614-quick-merge-3x2-plots-into-a-single to master
+af6424d806e02137537530dbf80c28f1fe1c7f92 Lynne Jones Merge pull request #62 in SIM/sims_maf from feature/OPSIM-609-move-plot-metrics-button to master
+2c47bfd0da350eee53d8439956aa67256376d2b8 Peter Yoachim Merge pull request #61 in SIM/sims_maf from feature/OPSIM-601-make-sure-everything-runs-with to master
+48dd99087e8b151b28526d30d73a312dbb62c22f Lynne Jones Merge pull request #47 in SIM/sims_maf from feature/OPSIM-537-add-json-dump-of-metric-output to master
+d478e740da74e0725786644c3de9d645eb89b2c1 Lynne Jones Merge remote-tracking branch 'origin/master' into feature/OPSIM-537-add-json-dump-of-metric-output
+2cefa8aacad73856df0cb072a17cac9f462f83c9 Peter Yoachim pick up master changes and resolve
+9bb56985f007bfdd9f44cda58908314884d8a9ca Lynne Jones Merge pull request #60 in SIM/sims_maf from feature/OPSIM-596-add-less-than-cumulative-version to master
+00cff3a31240219891dc3195cedff27f9e5d404c Lynne Jones Merge pull request #58 in SIM/sims_maf from feature/OPSIM-594-add-hourglass-plot-to-multi-color to master
+c5a8237eddc5e4da157c797bb1b05a355c87f969 Peter Yoachim Merge pull request #59 in SIM/sims_maf from bugfix/OPSIM-578-driver-fails-if-matplotlib-exception to master
+97478ea3cf2cd81d6f3c1c4ed9cf668ae83a0f19 Peter Yoachim merge with master to resolve issues
+52a26901c6f17be8ef13107a5cbcac1850bc21a4 Lynne Jones Merge branch 'feature/OPSIM-594-add-hourglass-plot-to-multi-color' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-594-add-hourglass-plot-to-multi-color
+5455b7672e8c8fa56a9cff2ae45e20ab5676934c Peter Yoachim Merge pull request #57 in SIM/sims_maf from feature/OPSIM-595-check-noutliers-in-maf to master
+0eeaee0ea7e5379f3170804e1ddbb89429b008e5 Peter Yoachim Merge pull request #56 in SIM/sims_maf from feature/OPSIM-549-add-more-columns-to-tracking-db to master
+efe725765fcceff3245809ae19ee77b16f3429e3 Lynne Jones Merge pull request #54 in SIM/sims_maf from feature/OPSIM-593-sstar-cleanup to master
+f684a48cfbc1b32156aedd2ee5dad3b83fba461e Peter Yoachim Merge pull request #52 in SIM/sims_maf from feature/OPSIM-575-remove-white-space-trailing-and to master
+394a11d07d299ff698f066beebaab0c7374310e8 Peter Yoachim Merge pull request #53 in SIM/sims_maf from feature/OPSIM-590-update-sstar-driver-with-prop-names to master
+aa412787f3a3fe309bbf31c2fc2fbf3143187407 Lynne Jones Merge pull request #51 in SIM/sims_maf from bugfix/OPSIM-577-bug-in-summary-stats-tables-for to master
+c013128d714f76274f4617e31726c35bce6ba31b Peter Yoachim Merge pull request #50 in SIM/sims_maf from bugfix/OPSIM-576-nvisitratio-combination-histograms to master
+8d69a3e1e9928e67366e93203cd6aabc25c6a93a Lynne Jones Merge pull request #48 in SIM/sims_maf from bugfix/OPSIM-587-update-openshuttertime-metrics to master
+5ce90a7b5ffc5ed86487aa9569246c2b570d21e5 Lynne Jones Merge pull request #49 in SIM/sims_maf from bugfix/OPSIM-586-combo-histogram-overwriting-previous to master
+c6621bdf4ab13451cb91c1fba20e97c025326ada danielsf Merge branch 'feature/CATSIM-99-refactor-DBObject'
+24224e06803d3ac1d68357f49d34693302cc34f8 Lynne Jones Merge remote-tracking branch 'origin/master' into feature/OPSIM-537-add-json-dump-of-metric-output
+3bd294a319a37727ccad67641c72ba6b90543318 Peter Yoachim Merge pull request #45 in SIM/sims_maf from feature/OPSIM-509-create-healpix-galactic-dust-extinction to master
+787e3a7a7d7e1b6b851865bc8129e1b14ab65472 Peter Yoachim merged
+9b7b8d5e4a275a47bfe0330c7dbea5f3629add93 Lynne Jones Merge pull request #39 in SIM/sims_maf from feature/OPSIM-534-add-capability-to-override-metadata to master
+e3d6e44a7dc9c638c06563832ebef06ce01648f1 Lynne Jones Merge branch 'feature/OPSIM-534-add-capability-to-override-metadata' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-534-add-capability-to-override-metadata
+0b9ffba9f94d4dcb50678ed91d399e76e23fffef Peter Yoachim Merge pull request #41 in SIM/sims_maf from feature/OPSIM-516-try-running-maf-on-stripe-82 to master
+89292bf610385b1b36c527dcf1144725e7a2c3b1 Lynne Jones Merge branch 'feature/OPSIM-536-add-capability-to-override-metadata' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-534-add-capability-to-override-metadata
+c68ac0ff70696db6afdd1882ef1a65b2e971a174 Lynne Jones Merge pull request #44 in SIM/sims_maf from bugfix/OPSIM-542-showmaf.py-dies-if-no-display-info to master
+42a21d2d60b853b1e1608bd3d3bbd5b2032ccc0d Peter Yoachim Merge pull request #40 in SIM/sims_maf from feature/OPSIM-520-add-some-better-colors-relevant to master
+9c90c9cdc697e58c25f0068e55609f4bd890224c Peter Yoachim Merge pull request #43 in SIM/sims_maf from feature/OPSIM-333-long-gap-metric-for-agn to master
+4ef89cefdc194347ae7cece710dc21455bc69b59 Lynne Jones Merge branch 'master' into feature/OPSIM-502-create-prototype-movie-slicer
+ef4aaf5b8d1fb160e446c19e27ddd8cc54e91728 Peter Yoachim Merge pull request #38 in SIM/sims_maf from feature/OPSIM-518-hour-angle-stacker to master
+bca6868a7f65399c452a8ab629ca222489caf06d Peter Yoachim accidental merge
+14d9d31f74b82b5a1ddc772ec4f25b190b4f9fec Peter Yoachim Merge branch 'master' of https://stash.lsstcorp.org/scm/sim/sims_maf
+470d9110514620a3631225ab0bae5048831748f5 Peter Yoachim Merge branch 'master' into feature/OPSIM-518-hour-angle-stacker
+d387d9e1419865e2e0b460c36dd979b731ce6033 Peter Yoachim Merge pull request #37 in SIM/sims_maf from feature/OPSIM-508-make-it-possible-for-slicers-to to master
+04439001ca642bd0b383da50b557b46d96f66ce5 Peter Yoachim merge with master
+899acf958aa4a55dfc32561ad16730c2b05c9314 Peter Yoachim fixed deleted files
+5c98398387f014bfab587d2b1a9fd6ec0c1900b8 Lynne Jones Merge pull request #36 in SIM/sims_maf from feature/OPSIM-506-address-small-changes-improvements to master
+2d27b4b3562b35a4710c9f9249863cf89edf5002 Christopher Martin fixed confilicts
+dbc0ae02707d14294dab60607c1607baf4137237 Peter Yoachim Merge branch 'temp' into feature/OPSIM-508-make-it-possible-for-slicers-toh blah
+1c0bfe0f227654f9d36512545410da97594219c3 Lynne Jones Merged master back into this branch, to pick up labels for sky map and viz layer.
+5a7bf3b52496b95fc2185c6f8ae47c3ff311a08f Lynne Jones Merge pull request #35 in SIM/sims_maf from feature/OPSIM-503-go-through-comments-on-early-viz to master
+d136e43faa59a57549f1c9e41ac53795330bbd0c Peter Yoachim Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+6560e46b5892e621fdeda1c4fa473dd8f9c0d464 Peter Yoachim Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+ed4510a4cde59013bbe8fae9998ed65e15c563c4 Lynne Jones Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+297be53c9a0e45326aae6c4af4b96cfbda4cf249 Peter Yoachim Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+1dfbd8c0c983dd7519e9adc1b4e65e57a9a0ae4d Lynne Jones Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+b85e14497d38ac5f2e1f0ea0c7ca0261dc848e90 Peter Yoachim merged
+4546b68d7fcb4c1399ba69d302df235c5aa1f812 Lynne Jones Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+15e8f01f556dc965dbe89f566ce24140f0bc6f53 Peter Yoachim Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz merging
+617869b150dfa18d656f112d00bc377bcf6578b0 Lynne Jones Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+2628abf41da84f183f1be4166b28d2c524079ea9 Peter Yoachim Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+4c7a551a559ef59159be0a41502b8fc70c7f78c3 Peter Yoachim Merge branch 'feature/OPSIM-503-go-through-comments-on-early-viz' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-503-go-through-comments-on-early-viz
+6c1ea2858bb94e65177068f3ae27231550bbd528 Lynne Jones Merge branch 'feature/OPSIM-490-write-an-html-template-for-laying' into feature/OPSIM-503-go-through-comments-on-early-viz
+471b49460614caa59a29675d866903c4e18ce0af Lynne Jones Merge pull request #34 in SIM/sims_maf from feature/OPSIM-490-write-an-html-template-for-laying to master
+8b4232993add17f4157cee7535dc80a396a637f1 Lynne Jones Merge branch 'feature/OPSIM-490-write-an-html-template-for-laying' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-490-write-an-html-template-for-laying
+06e1cb8112e7cb05d81abf2e6d375d73ba1cd61a Lynne Jones Merge branch 'feature/OPSIM-490-write-an-html-template-for-laying' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-490-write-an-html-template-for-laying
+78fbc59d93f1534dd0bb0a835100bb760b0aea5e Peter Yoachim fixed conflict
+bd9ef71c8c1e2a7024f532edf4ea31b28c8af4bb Peter Yoachim merged with master
+0e03f719647a5ff689808ec8abd1ccd66f47ddf6 Lynne Jones Merge pull request #32 in SIM/sims_maf from feature/OPSIM-494-check-all-scripts-work-for-workshop to master
+c04b2616fe9ac3343d87ab55e34fc97b218a0e74 Lynne Jones Merge branch 'feature/OPSIM-494-check-all-scripts-work-for-workshop' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-494-check-all-scripts-work-for-workshop
+156a1878f34e3659083a50336f6b2dc866ef1ad8 Lynne Jones Merge pull request #30 in SIM/sims_maf from feature/OPSIM-466-move-resultssummary-info-into-a to master
+4cb8a7a1eacf1bceff39793d460abf6f3480885b Lynne Jones Merge branch 'master' into feature/OPSIM-466-move-resultssummary-info-into-a
+6f2fb9912351f7dc99d3e3f894e4cda9af50f263 Lynne Jones Merge pull request #31 in SIM/sims_maf from feature/OPSIM-491-update-maf-for-new-opsim-schema to master
+edadf97a7258f7287780c07d2ec5fbef133312be Lynne Jones Merge branch 'master' into feature/OPSIM-491-update-maf-for-new-opsim-schema
+39a16d990f23b0487caa06b0e9d01490653c4183 Peter Yoachim Merge branch 'feature/OPSIM-491-update-maf-for-new-opsim-schema' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-491-update-maf-for-new-opsim-schema
+212e6eadb1d091a8da8535d7a1a5a288ae80137d Lynne Jones Merge branch 'master' of https://stash.lsstcorp.org/scm/sim/sims_maf
+c996316a3d58ed918397dff71b4b57b265421f65 Peter Yoachim Merge branch 'feature/OPSIM-482-updates-for-workshop-release'
+c942f60800bdba6ca4c79011171e7001464b97ee Peter Yoachim Merge pull request #29 in SIM/sims_maf from feature/OPSIM-482-updates-for-workshop-release to master
+b326e567d686d2f392991bb2aa4620c3693b5f46 Peter Yoachim resolved conflict
+31bbdebf81286d538e67a3d43891f61e855261fe Peter Yoachim Merge branch 'feature/OPSIM-482-updates-for-workshop-release' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-482-updates-for-workshop-release
+977512a48028ac81c96eb02cff3bd273c2a733c2 Peter Yoachim fixed conflicts
+59c3f63d73b2a9623f1a4dfd6dd442d257851dcd Lynne Jones Merge branch 'feature/OPSIM-482-updates-for-workshop-release' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-482-updates-for-workshop-release
+51f57e9c319229e1efa44ef0e31ca082ef031fec Lynne Jones Merge pull request #28 in SIM/sims_maf from feature/OPSIM-461-spie-paper-for-maf to master
+9d9cddc9b7c34c76945c869991b9d6ddd9019e50 Lynne Jones Merge branch 'master' into feature/OPSIM-461-spie-paper-for-maf
+7b69de9dcb87d649f655eb200172f98bf4035491 Lynne Jones Merge pull request #27 in SIM/sims_maf from feature/OPSIM-472-create-metrics-registry to master
+2f2e79126b7a3e21bd78656dec4a983f73d02a7c Peter Yoachim Merge branch 'feature/OPSIM-472-create-metrics-registry' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-472-create-metrics-registry merge!
+e201147eed893874864752596b7e04bf450bbce1 Lynne Jones Merge branch 'feature/OPSIM-470-create-a-base-stacker-class-update' into feature/OPSIM-472-create-metrics-registry  (one review for all metaclass additions)
+539b3d1d21188ad6e6b810db0227a5c0dcc31090 Peter Yoachim Merge branch 'feature/OPSIM-470-create-a-base-stacker-class-update' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-470-create-a-base-stacker-class-update ng
+70f56d4725f0774cc78a4de83a5768ab99189a6e Lynne Jones Merge branch 'feature/OPSIM-446-rename-binner-to-slicer' into feature/OPSIM-461-spie-paper-for-maf
+306f02335d1a5b30f74721ba39bb24d144d57b07 Peter Yoachim merged with master
+193b0be1ba060918e9d9f5d415d03eda47b43e2b Peter Yoachim Merge pull request #23 in SIM/sims_maf from feature/OPSIM-443-simplify-driver-config-helper-functions to master
+c5cf124126705941eadc2ebaa6d9dd9feccf97b4 Peter Yoachim Merge branch 'feature/OPSIM-446-rename-binner-to-slicer' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-446-rename-binner-to-slicer
+c298943bf13db06e50dd57edef22699e7fcdc999 Lynne Jones Merge branch 'feature/OPSIM-446-rename-binner-to-slicer' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-446-rename-binner-to-slicer
+7a6f4402e1f725a912d4d57c3b392b67d96db66d Peter Yoachim merge conflicts
+e892adea1f12166d95d951ea530caaaa821f0d5a Peter Yoachim resolved conflicts
+002950769abafbfdc5057d5237eafef7c4ee31ec Peter Yoachim Merge pull request #22 in SIM/sims_maf from feature/OPSIM-440-speed-up-driver-unit-test to master
+43e8e4d80ea81a184988da179dd833dbfae42850 Peter Yoachim Merge pull request #24 in SIM/sims_maf from bugfix/OPSIM-447-plotdata-fixes-have-left-behind to master
+d954ef8a788726ae1ee4260a1a9d5c144e8a6e81 Lynne Jones Merge pull request #25 in SIM/sims_maf from bugfix/OPSIM-437-cleaner-crash-required-if-sqlite to master
+f2ce722e8d6ff8d51dfa318f6c87d86be41fa5bf Lynne Jones Merge pull request #21 in SIM/sims_maf from bugfix/OPSIM-437-cleaner-crash-required-if-sqlite to master
+763c976bb56a50d996be5107aeecad0bd81ca68a Lynne Jones Merge pull request #19 in SIM/sims_maf from feature/OPSIM-416-move-database-access-into-single to master
+e51040e93b7d72d3c3cf5589f0c294cd16220c78 Lynne Jones Merge branch 'feature/OPSIM-416-move-database-access-into-single' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-416-move-database-access-into-single
+c66257d73c478639ed91dde77b59d854103040ec Lynne Jones Merge branch 'feature/OPSIM-416-move-database-access-into-single' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-416-move-database-access-into-single
+2d647efad92e3f31cf3a1286fdf44a643231f7b9 Peter Yoachim Merge branch 'feature/OPSIM-416-move-database-access-into-single' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-416-move-database-access-into-single
+168ee66d91fd1a685b06f693393f9729a775439c Peter Yoachim Merge branch 'feature/OPSIM-416-move-database-access-into-single' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-416-move-database-access-into-single
+26f283aa6a1f5e9bdf8f63034e253308a711de19 Lynne Jones Merge branch 'feature/OPSIM-429-preperation-for-workshop-dry-run' into feature/OPSIM-416-move-database-access-into-single
+4a56e39338b5ff677ce74922eb1eed3341c4f2fc Peter Yoachim merging to master
+b02aaa439ed8bdedf699eae5b6416073720724ce Peter Yoachim Merge pull request #17 in SIM/sims_maf from feature/OPSIM-428-f0-metric-and-binner to master
+29cb638a055f5cd0030a3b34e57822190f17b135 Lynne Jones Merge pull request #11 in SIM/sims_maf from feature/OPSIM-337-solar-system-groups to master
+74f3bf0922fd4365983eca39148455e549c3c3b4 Lynne Jones Merge branch 'master' into feature/OPSIM-337-solar-system-groups
+c82a5f828bae7d7508feff4de5a7b9570af638d1 Peter Yoachim merged to master, still need to fix unit testts
+e6d34a9a6a690365bc0dd2ad9cba6f884cd3528d Peter Yoachim finish merge
+b425bc7ad52ad96155f8a0e17557fc10a07f1859 Peter Yoachim Merge pull request #14 in SIM/sims_maf from feature/OPSIM-332-uniformity-metrics to master
+85149627c0411562d5a7a0e1ee15eca2932fcfd0 Peter Yoachim Merge branch 'feature/OPSIM-429-preperation-for-workshop-dry-run' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-429-preperation-for-workshop-dry-run
+93372be33b3f06b092f0a0450c2d7c2aa8ebd5a7 Peter Yoachim Merge branch 'feature/OPSIM-428-f0-metric-and-binner' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-428-f0-metric-and-binner
+365657f0b3af56e5f7739fb64140a510eba341d2 Peter Yoachim Merge pull request #13 in SIM/sims_maf from feature/OPSIM-420-update-astrometric-metrics-to-include to master
+2138a9272e1d5b54e57fd4b397b8f53ce03276bc Lynne Jones Merge branch 'master' into feature/OPSIM-416-move-database-access-into-single
+9b36b74adec97954731a0893e66b13525cbebc39 Lynne Jones Merged 'feature/OPSIM-343-copy-configs-over-utils.copyconfig'  into this branch, as the utils.copyconfig made some changes to database access that should be folded into the changes ongoing here. (the 'feature/OPSIM-343-copy-configs-over-utils.copyconfig'  branch would be considered dead after this is merged to master).
+cea1c572d4eb6d207eb628b05f78e4962435a98a Peter Yoachim Merge branch 'master' into feature/OPSIM-420-update-astrometric-metrics-to-include
+efbaf3b725e0e00694de4ede73f2a693ad3d95ac Lynne Jones Merge pull request #12 in SIM/sims_maf from feature/OPSIM-385-update-onedbinner-to-use-just-bins to master
+6984eb2a1728a0b5ce77f3c718cf7b4f93ec5a77 Peter Yoachim Merge pull request #10 in SIM/sims_maf from feature/OPSIM-334-supernova-metrics to master
+6a99f5ce2fa21793bd7d10cc0cd18d10ec22a4bf Peter Yoachim merged
+54036eba6846399c917492aa0a9e9befa4481bdd Peter Yoachim Merge pull request #9 in SIM/sims_maf from feature/OPSIM-339-pre-configure-script-for-driver to master
+b8f765ead3b8f1a9e122dbbae667b65ce7156e3d Peter Yoachim merged to latest branch
+1add36baef9185c7f6fb10be8a0928680fa386d9 Peter Yoachim merged with master
+df15fe8b1c1e1ee8df4e8a3069f328c9998e1700 Lynne Jones Merge pull request #8 in SIM/sims_maf from feature/OPSIM-89-write-unit-tests-for-binmetric to master
+8bd3c6e8bcc25d04be133cd5eaa3c5a48f59a0fc Lynne Jones Merge branch 'feature/OPSIM-89-write-unit-tests-for-binmetric' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-89-write-unit-tests-for-binmetric
+51dd4dd0567093823d300d3b053c690a394ff51c Peter Yoachim Merge branch 'feature/OPSIM-265-verify-that-outputs-of-maf-sstar' into feature/OPSIM-339-pre-configure-script-for-driver
+9625332d108803d036a86f5e23ce01e360f6d07f Peter Yoachim Merge pull request #6 in SIM/sims_maf from feature/OPSIM-360-fix-color-bars-on-opsimfieldbinner to master
+6157a87e3ed1badbf5dbe76770bde5818a43c8e0 Peter Yoachim Merge branch 'feature/OPSIM-360-fix-color-bars-on-opsimfieldbinner' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-360-fix-color-bars-on-opsimfieldbinner
+da4159f714db03b6b4e65528f3734da2dbdc73b0 Peter Yoachim Merge pull request #5 in SIM/sims_maf from feature/OPSIM-359-debug-maf-grabbing-data-from-mssql to master
+b5a370823cd068c40f1c90b444dcf573e9736487 Peter Yoachim Merge pull request #4 in SIM/sims_maf from feature/OPSIM-357-fix-oned-binner-plotting to master
+b8f5932f486b3a175d4da38c3df2610f02146aaa Peter Yoachim Merge pull request #3 in SIM/sims_maf from feature/OPSIM-279-write-unit-tests-for-db-access to master
+36aa6b3fdc7b8e68be2911c20da451ee0fe621a4 Peter Yoachim Merge pull request #2 in SIM/sims_maf from feature/OPSIM-329 to master
+23cd165fcfa9805c3e857c61245569d9f5c9c45c Peter Yoachim Merge branch 'feature/OPSIM-329' of https://stash.lsstcorp.org/scm/sim/sims_maf into feature/OPSIM-329
+e46f1af72fd0ee7075905dee9677badec6fd9840 Peter Yoachim Merge branch 'py' into feature/OPSIM-329
+f6e2c2e26d75af0cb2ae8f81b0b0a30254dc4094 Lynne Jones Merge pull request #1 in SIM/sims_maf from feature/OPSIM-350 to master
+edf168388a6a40800f39d85e1197d6c919a93048 Peter Yoachim Merge branch 'master' into py
+8df33280e00eb651d43fae4ee4a33ba26e8607fb Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/sims_operations_maf
+27c3615b0064dcde262c6f03c8e0df32e456ecc6 Peter Yoachim resolve conflict
+dc91589d9289c1e6e80cf1c2c288d683f571effe Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/sims_operations_maf
+81628cbffc82ef35f1b32542cb6f9bc365b375d4 Peter Yoachim merge
+f0d8bb2a633af8acedffa30d386aefd79c49a481 Peter Yoachim Merge branch 'py'
+a7dfe042ccd55c3b44e8ffbea04e798e2f46829d Peter Yoachim Merge branch 'master' into py
+bbe62b89b465e30de4e056a70aa01f9df0e37d4c Peter Yoachim Merge branch 'master' into py
+101b7be7daabdd2ab961fc9e3af7148b17d23914 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/sims_operations_maf
+4837076f4dc4d9f077f4b902aa411e481012bacd Peter Yoachim merge!
+3c8e584e2d0fbc5fddab8e324632857bdd5c32aa Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/sims_operations_maf
+716f3596f1b2c4c7949269568a62dae7fa6100f5 Peter Yoachim Merge branch 'master' into py
+30590b70077240d84d282aa909bde910690daf92 Peter Yoachim Merge branch 'py' into lynnes_driver
+98bd8695fea02b8d861939763aaffe90dd7d1d6e Peter Yoachim Merge branch 'master' of git.lsstcorp.org:LSST/sims/sims_operations_maf
+81eaf73fb02856d4c35861d62376ddd9905db89d Peter Yoachim Merge branch 'py'
+71d398dd833be8fe847ba15389e72f283d89da82 Peter Yoachim merge!
+3a809d5835261e42f0109d895eb9d424069d82b5 Peter Yoachim do I really have to do merge messages now?
+ee3034353a900043a48e07abcd7e3083752764f7 Peter Yoachim Merge branch 'py'
+bbf9f7532e2d2af7a1430a23d1a733ee70d240cb Peter Yoachim Merge branch 'master' into py
+0327172fcce44b0bfe320f006ca2a5647db81511 Peter Yoachim Merge branch 'tickets/py'
+1e8e2eacd785e6c8585d2f7eef607c6e51124f24 Peter Yoachim Merge branch 'master' into tickets/py
+f3e66fc9e62678adb3b754279d3eca932c47471a Peter Yoachim Merge branch 'master' into tickets/py
+970c338c1ff18579061ccabe8c704c3f4a8321a2 Peter Yoachim Merge branch 'tickets/py'
+1844e80ffd9ebaaafe2a7f6b74ca76334090824d Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+3e7dfba3650a1ac94b46eca106c234a3e0946e41 Peter Yoachim Merge branch 'tickets/py'
+1e398713c5cd1527598ea1db6bc2379c34610253 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+ef5582aff047f8d8b403c3834d629342bb569f02 Peter Yoachim Merge branch 'tickets/py'
+8e0d65a7e7e51129704d18fac77e4807de292500 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+15f4a7c3003825687da004891291881f6d008ee9 Peter Yoachim Merge branch 'master' into tickets/py
+ed4248e6b49c4f37409ff66af1aee38637a2b6de Peter Yoachim Merge branch 'master' into tickets/py
+443f89bc9115f932dd591af895e69b0b90d5c7cd Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+979ccf5b746e3e09f5989b760b694c68589d554e Peter Yoachim Merge branch 'tickets/py'
+aacaf51ce5d5831ff4b8ebf7ea25f914744040d7 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+903b97f386cb2de9c09ddd04325604ba1892d93a Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+c2683f04c787440960033f220f51ee2754e462b6 Peter Yoachim Merge branch 'master' into tickets/py
+1ced464c7112b23b0e8bac6105a0ea34879bb7c8 Peter Yoachim Merge branch 'master' into tickets/py
+b2d2c388f6793b46f4f9d42e99f7fd68415bde25 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+f7e096643cc12f98088a69bae01f996d10a42710 Peter Yoachim merged driver
+7c4ed3113d94786e684bb7434953a618cecd80f2 Peter Yoachim merging
+eaaf0e9d9094a3cc2d5bf8ab38cd32e3ea0c7a7e Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+3d2147e9dab57dbf672e9c2124fa3c140400b18e Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+d175f32eb6c67d58f563c3f8f0843f4ddbfc087d Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+4c28384bbc8286f60a8a4f59a9340fbd2f7f6abe Peter Yoachim Merge branch 'tickets/py'
+a39c0d1f2048f30849594dda6ba99b6ff3abc446 Peter Yoachim Merge branch 'tickets/py'
+be69f70e7caa55828056f86065e8befc490220fe Peter Yoachim Merge branch 'tickets/py'
+7362745d73064c51afaa3f5f5018a2bcd9ebf66a Simon Krughoff Merge branch 'master' of git.lsstcorp.org:/LSST/sims/operations/maf
+de360ffb5ec2e4a858154b7a7ae0ece9f29c2d33 Peter Yoachim Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+ebf873c313fedba03fd7c671fc07054160055630 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+8a5cd19008357ebcc61686cd3473da3facfd390a Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+782c28b3928c2c260dae6144ec46ae2dac4ffbb1 Peter Yoachim resolving conflicts
+a3bc815eaa07d6ee5a65e4db905580f95b94c0aa Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+570a808773f9427aa06e16672c6c12aea1891498 Peter Yoachim fixed conflict
+2c22ca1389f3522ddf0ef48791be91c1cee446bb Peter Yoachim Merge branch 'master' into tickets/py
+df94780128da313f49b2047629a92ac5dc1730ef Simon Krughoff Merge branch 'master' of git.lsstcorp.org:/LSST/sims/operations/maf
+3f1eac27c449dab84e4bc9138bc799df19794e4a Peter Yoachim Merge branch 'master' into tickets/py
+da3bafab0c6d302051efcd0646b3fcdf81ffff6b Peter Yoachim merged to master
+cdaafefd179ec929e0513e24dedadc2e8f1a7422 Peter Yoachim Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+15c81fd0edb69a1547a04c19e36b853aa20ef926 Peter Yoachim Merge branch 'master' into tickets/py
+91beaba18245ad74f991d91133485e5b6428aeaf Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+685e2ab39d37e7ffa80146413d1abf8f0a762d86 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+7ee8b93dd47adf2529976b31203e9415436b3c9d Peter Yoachim Merge branch 'master' into tickets/py
+38111b69cbc9c51ecbebcd2e12a7a7f3694943b6 Peter Yoachim Merge branch 'master' into tickets/py
+aa478ec495c15e5c82e53258beda49c748b71ad6 Peter Yoachim Merge branch 'master' into tickets/py
+6ef3a3b1ac0ee5c390927823e84d6aa3bae6dc3d Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+4a43428c7c0c24825356d693d372a676a2dae089 Peter Yoachim Merge branch 'tickets/py'
+2a1452b44303de118924caa697762ef18bfac109 Peter Yoachim Merge branch 'master' into tickets/py
+6ceb0eae82fcc250102325b97f768853e2a0deb7 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+72ebedfb6cb9bdb3e10e7a7b9205f671d8ed1706 Peter Yoachim Merge branch 'tickets/py'
+907eec7cbec8f5faae488f02fb9f6ec4b607e0de Peter Yoachim Merge branch 'master' into tickets/py
+52c22d7e94f915f7616b1932056cd475d0389c56 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+f8f181ac670136c7a0b7ad35b48e026501fd8e1b Peter Yoachim Merge branch 'tickets/py'
+7576fcdfae07135e92c44d02eab258c4edb77d29 Peter Yoachim Merge branch 'master' into tickets/py
+ed7d43d69dbc3c0f3bb6d5574a7c0965567860a4 Peter Yoachim merged to master
+c58ca64a6a9607a9998a8fb6f50cc0ac7703e550 Peter Yoachim Merge branch 'temp' into tickets/py
+f7f2803495bc78868bd897772055f2af5f35a309 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+9d0421f75cce20fbe0c6ad5c92f65d7571641c25 Peter Yoachim Merge branch 'master' into tickets/py
+01248dc6a2bd764cf232d02f439bee750b7781f0 Peter Yoachim Merge branch 'tickets/py'
+9e0606af22187f87c42c6809657bd3c8d7e76249 Peter Yoachim Merge branch 'master' into tickets/py
+7410a30af916926df475e26418e332eef19c9a00 Peter Yoachim Merge branch 'master' into tickets/py
+11136b1e5a4cf4fb0c4829e749f9ed41cfd198ce Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+728caea7d1d6822d185ecac5710a831b31398caa Peter Yoachim merged to master
+7d62e2530218c0e0bf17ab7fbc1912017be1b5a2 Lynne Jones Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf
+a157251e1019f02d5430ea8667788524596fd3b3 Lynne Jones Merge commit 'cc227386ee0e870d9c5b5cbc32ee92d0043eb057'
+e08ae6a6141a42bea99d910b3401570f3d94c3ce Srinivasan Chandrasekharan Merge branch 'master' of git.lsstcorp.org:LSST/sims/operations/maf

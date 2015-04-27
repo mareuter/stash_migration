@@ -1,0 +1,57 @@
+4c590e57ac7e2485a857d0afb5aea7336cafd005 Bryce Kalmbach Merge pull request #46 in SIM/sims_photutils from bugfix/SIM-1018-readgalfast-example-notebook-throws to master
+b34d39c24727effd37146bb20dda156dbfc45e07 danielsf Merge branch 'bugfix/SIM-1088-calcm5-bug-when-multiplying-throughputs'
+82a337b9176beec572d6f1494b8c037148c60ff3 Bryce Kalmbach Merge pull request #41 in SIM/sims_photutils from feature/SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py to master
+76bb9299491a5a9e744873a9224ba7d314e3d567 danielsf Merge branch 'feature/SIM-1046-refactor-photometric-uncertainty'
+b77c5d3fdbe2681fb12964c789cc40d07213560b Lynne Jones Merge pull request #44 in SIM/sims_photutils from bugfix/SIM-1060-new-astropy-fails-cosmology to master
+74be8eaecb8bf514cb522996fa411f98a2dd5d53 danielsf Merge branch 'feature/SIM-1037-only-calculate-requested-magnitudes'
+0e0f930f36609c71a93316680485c1711bdcf9ab danielsf Merge branch 'feature/SIM-136-photometric-uncertainties'
+c45ce75435a76ef6b6367c0beb9f8868e4f897f0 Andrew Connolly Merge pull request #40 in SIM/sims_photutils from feature/SIM-1015-remove-addigmattenuation-from-sed.py to master
+915bbd45023da55ddd04c3b672aa681f305463d5 Bryce Kalmbach Merge pull request #39 in SIM/sims_photutils from feature/SIM-967-rework-selectstarsed-and-readgalfast to master
+35c08b4a85cda833f4666a5c2f8b9e5e8678bccf Rahul Biswas Merge pull request #38 in SIM/sims_photutils from feature/SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed to master
+6d1b64371db1581c2a95b82d573ebebe5fe698f0 danielsf Merge branch 'bugfix/SIM-969-fix-magnorm-precision'
+076987dab0c625381bc12ff7548996cbafa11369 Bryce Kalmbach Merge pull request #35 in SIM/sims_photutils from feature/SIM-164-fit-for-magnorm-in-selectstarsed to master
+9b2498b50d55ee4a003917c57a29ff0755f858c6 danielsf Merge branch 'feature/CATSIM-152-unify-photutils.py-and-photometry.py'
+db619108a7af1ada4b98c1a222e7de1d68d77446 danielsf Merge branch 'feature/CATSIM-151-split-astrometry-and-photometry'
+f4b08de6074f66ea09cad4012fdb3f4eeaf244d0 Bryce Kalmbach Merge pull request #32 in SIM/sims_photutils from feature/CATSIM-193-write-galaxy-sed-matching-code to master
+ff1f2206bf41e6206ce778b3895c8f087fc4e35b danielsf Merge branch 'feature/CATSIM-138-cosmological-magnitudes'
+7ce4e9eb7738a22241ff84508d19954353b250af Lynne Jones Merge pull request #29 in SIM/sims_photutils from bugfix/CATSIM-185-update-sed-and-bandpass-to-replace to master
+17a140ceeab52e0267d424829d2c1bd2af4db31c Bryce Kalmbach Merge pull request #27 in SIM/sims_photutils from bugfix/CATSIM-153-speed-up-readgalfast-unit-test to master
+56f876792e317b82c8ebce95a63718f719926a30 Bryce Kalmbach Fixed merge conflicts from rebase
+04e0e4622732a6b5a538507c233db5b0af3c9981 danielsf Merge branch 'feature/CATSIM-154-scons-testreadgalfast'
+a8858712c4b780074f324ded147e9ee2f3bf5563 danielsf Merge branch 'feature/CATSIM-134-variability-unittest'
+a10aef3ce9c9b094ac3ba0a803e9439e2d35f2ec danielsf Merge branch 'feature/CATSIM-136-cosmology-package'
+b4f191d49f7d9c6d0723070dac559da969159e34 danielsf Merge branch 'bugfix/CATSIM-142-add-all-to-modules'
+cc09d188501cc4e2d5a0bf422685370faae4a617 danielsf Merge branch 'bugfix/CATSIM-139-unittest-variable-scope'
+9e683f77a4f4ced5deea9e961b83ccfe8fd6f065 Bryce Kalmbach Merge pull request #21 in SIM/sims_photutils from feature/CATSIM-121-add-alex-abate-s-igm-code-into to master
+f09067888d7edfc5ee21342c826c0b6d7b9ee939 danielsf Merge branch 'feature/CATSIM-130-update-bounds-API'
+88c718ccf09c16b2db797dd64e8a771b788e4621 danielsf Merge branch 'feature/CATSIM-99-refactor-DBObject'
+9b088c3c9bdebc6057335c8514282bfe7fb104a4 danielsf Merge branch 'bugfix/CATSIM-129-cull-the-m-flares'
+2226c4439bd5f999a2e2477588a7bdbc51483491 danielsf Merge branch 'bugfix/CATSIM-103-update-obsMetaData'
+3629de5e5d503e201bf51acf263edc2ff923b7fd danielsf Merge branch 'bugfix/CATSIM-103-update-obsMetaData' of https://stash.lsstcorp.org/scm/sim/sims_photUtils into bugfix/CATSIM-103-update-obsMetaData
+e72ca7401a7c6dc9583915dfb6c68fc178e8720f danielsf Merge branch 'feature/CATSIM-78-accept-sdss-filters-in-photutils'
+20f3ae9de29461e3104cf5b47b2fe571f74df636 danielsf fixed conflicts with master
+34bab4a39a483826ba5996128f2a4cd8ed75e57f danielsf Merge branch 'sfd/CATSIM-111' into feature/CATSIM-111
+19d75e38a509d929dba90f3e8eab826307171d72 danielsf fixed conflicts
+3e723a404c1f912f524b828a17ee3d11a602bd61 Bryce Kalmbach Merge pull request #13 in SIM/sims_photutils from bugfix/CATSIM-119-improve-speed-of-readgalfast-and to master
+241c4c8064ffde06832e5f523ea56bd37ce1eb91 Andrew Connolly Merge pull request #12 in SIM/sims_photutils from feature/CATSIM-105-request-to-store-mflare-variability to master
+91243d46005b54a8dc1aae2358af42d3af941c9a Andrew Connolly Merge pull request #11 in SIM/sims_photutils from testBranch to master
+536b634df0d66e3e5bd62718c4347795a51dd58c danielsf reconciled conflicts with changes made to EBV.py
+4bab2056cdbc629fddec3b730c37efddd192c58a danielsf Merge branch 'feature/CATSIM-102-create-ebv-utils-that-can-be-accessed'
+1d24e016fbec928af8e6ecb60bbe8efdd09c3fe7 danielsf reconciled conflict post Simon's reorganization of catSim
+d9df00aacb113890528da48dbb3b6025afe7dd8f Bryce Kalmbach Merge pull request #9 in SIM/sims_photutils from ~JBKALMBACH/sims_photutils:master to master
+2109f96dbf10d7ee356269404d0d0ada78c9dd73 Bryce Kalmbach Resolved Conflicts
+8b99d938bc7c2d943310703694cef327f408b7c5 Simon Krughoff Merge pull request #8 in SIM/sims_photutils from feature/CATSIM-33-database-unit-tests to master
+ece286fd6c536c04ed37945ef304df936d232b08 Simon Krughoff Fixed merge conflict in test
+2921ae96c7aafb264cde14f95e0222f1d2128148 Lynne Jones Merge pull request #6 in SIM/sims_photutils from bugfix/CATSIM-88-improve-error-message-handling to master
+e19f72a030914f0fcc9f6fc4dc11457d5d49fd7e Lynne Jones Merge pull request #5 in SIM/sims_photutils from bugfix/CATSIM-87-if-the-sed-does-not-cover-the-full to master
+a33d264ea0a5213dc10150d3706cd672474ec1c6 danielsf Merge branch 'feature/CATSIM-68-sky-to-focal-plane-conversion'
+2c328998f4649bea312dc49b7cf6b39508f590af Bryce Kalmbach Merge branch 'master' of https://stash.lsstcorp.org/scm/~jbkalmbach/sims_photUtils
+525799fe926e4af410b292e25602edf7b524e3f4 Simon Krughoff Merge branch 'feature/CATSIM-33-database-unit-tests' of ../sims_catalogs_measures into feature/CATSIM-33-database-unit-tests
+6fa8e605b408fd5adfb7c3bd1a9f0d6c6137103e danielsf Merge branch 'feature/CATSIM-30-profile-the-photometry-generation'
+e615b4121d3334cc336a8c2fee928370ad5c2650 Simon Krughoff Fixed merge conflict in table
+3fb5b22197eb58cc3046655536512834fcc3b1c9 Simon Krughoff Merge branch 'master' of git.lsstcorp.org:LSST/sims/sims_photUtils
+4a8121aba5ab1e9527bd2f768a76b050898ec68a danielsf moved SedSet.py and BandpassSet.py to sims_photUtils
+643b571fa9cafe727453aa65b1744b67bd95e9aa danielsf Merge branch 'master' of git.lsstcorp.org:personal/danielsf/photUtils
+d39ac23788a3d5f089ce70230958a359e28641cb danielsf I believe that will have ported the histories
+e37ad1f0b60a6a8a1b7bcb77f7e69447e6ac2bb7 danielsf Merge branch 'u/danielsf/jira_catsim_12' of /Users/noldor/physics/garage/sims_catalogs_measures
+fc98e7bc5c2e435d6cc28032e46b9e30ca6dfdc6 Simon Krughoff Merge branch 'tickets/3015'

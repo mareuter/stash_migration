@@ -1,0 +1,32 @@
+68b78a5151795a2cbfb05f6238d1ed3ecaf9c70b danielsf Merge branch 'feature/SIM-90-use-palpy'
+dc2637719e7320e55e50e68a92fa3025187f575f danielsf Merge branch 'feature/SIM-1046-refactor-photometric-uncertainty'
+cc73a46424f7b74e444858f6e536e86b3ceb8d6c danielsf Merge branch 'feature/SIM-136-photometric-uncertainties'
+5281ebb2ab094218b2da0af727e8fb51a9537f5e Yusra AlSayyad Merge pull request #29 in SIM/sims_catalogs_generation from bugfix/SIM-994-galaxyagnobj-and-galaxybulgeobj-need to master
+0467f675393835bd9db1e6557411122e957039d2 danielsf Merge branch 'feature/SIM-943-move-utility-functions'
+588eb35cfd1d7295be77a55aaee64b635a12cf35 danielsf Merge branch 'bugfix/CATSIM-189-fix-parallax-units-consistently'
+9cc8a13290cd1805649f14687313c31ffeda2081 danielsf Merge branch 'feature/CATSIM-159-galsim-galaxy-images'
+0f873cfc8af18b8befc06d2f85dbeedfc6bc6715 danielsf Merge branch 'feature/SIM-166-update-opsim-interface'
+5abba9a41fa004bf210088a835eb3d1e73b5935b danielsf Merge branch 'bugfix/CATSIM-211-rotskypos-in-radians'
+7bf1047834bcef280f48140afab39e1b99c529ae danielsf Merge branch 'bugfix/CATSIM-179-phoSim-test-is-null'
+c9c7611eed0e204adee93772d479e9a07a859798 danielsf Merge branch 'bugfix/CATSIM-188-arcseconds'
+0552ef04f010643725efe2ae1fcf1f027cc26409 danielsf Merge branch 'bugfix/CATSIM-165-reorder-ObservationMetaData-init'
+1aa8b2d61347fb55120eb6c60d7be55741b5c850 danielsf Merge branch 'bugfix/CATSIM-131-phosim-unittest'
+5d172f7bbd0a91d3f4dc26c21245a1860fd86793 danielsf Merge branch 'bugfix/CATSIM-142-add-all-to-modules'
+a723ca5ea677894c7d88614d56ee3f7ceefad34b danielsf Merge branch 'bugfix/CATSIM-144-cleanup-astrometry'
+112d69d45f281a8d3362129cf966a6cbe48bd7be danielsf Merge branch 'feature/CATSIM-99-refactor-DBObject'
+2b5ee8dd30e9cc91dfeda13bb38141a9a174d503 danielsf Merge branch 'bugfix/CATSIM-103-update-obsMetaData'
+96552007a5e9d5fe85087cad66233c36bbee6b96 danielsf resolved conflicts with remote branch
+35e988a39067fa08b9839af282d2d37a67a63378 danielsf Merge branch 'sfd/CATSIM-111' into feature/CATSIM-111
+10284a532d52d99500635b8e80271d5141428621 danielsf Merge branch 'bugfix/CATSIM-113'
+9566e890596ed5e8525517dd79d2921a112c2363 Simon Krughoff Merge pull request #4 in SIM/sims_catalogs_generation from feature/CATSIM-24-generate-camera-model-for-catsim to master
+8206b70930f120439cb58e960ca20acd0ee9ff80 danielsf Merge branch 'bugfix/CATSIM-96-galaxies-have-no-size'
+a56c5faa3beec27dcc96f97bec738041e2653cb3 danielsf fixed conflicts
+6d5385a5312eca000487c126f6ec0bdd5b1c9af3 Simon Krughoff Merge pull request #3 in SIM/sims_catalogs_generation from feature/CATSIM-33-database-unit-tests to master
+3a8747fb4c5f0612793ccb52a5dcd0d66937735b Simon Krughoff Merge pull request #1 in SIM/sims_catalogs_generation from feature/CATSIM-77-add-the-remaining-object-source to master
+c4fa755ee0afe29d1648e0a0228a90ecc5a7c8da Simon Krughoff Merge branch 'master' of git.lsstcorp.org:/LSST/sims/catalogs/generation
+d8f8af625c21daf549efc6f590d3eb1ee830c12d Simon Krughoff Merge branch 'master' of git.lsstcorp.org:LSST/sims/catalogs/generation
+80f91bea088fc9bce96b491e1ae0ae6f1026e386 Simon Krughoff Merge branch 'tickets/3015'
+88494662f1e9c081556eb1561584f81cf4419567 Simon Krughoff Merge branch 'master' into u/vanderplas/queryDB_rewrite
+1108fb11c5484a1d9a5a8d5b3f17761f83b6cf81 Jake Vanderplas fix merge conflicts with master
+c374278c29f1d3e683feeb59b5e9a19f987cda08 Simon Krughoff Merge of branches/mssql back to trunk
+10837103ce6ba0e3c345fac99469bb68689cbda5 Simon Krughoff Merge of the trunk back to the mssql branch
