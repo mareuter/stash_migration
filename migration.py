@@ -41,6 +41,8 @@ def add_comment(holder, owner, repo, sha, username, comment, line_number, file_p
         line_number: The line number of the file if this is a diff comment.
         file_path: The file path of the file if this is a diff comment.
     """
+    import time
+
     r = holder.get_repo("%s/%s" % (owner, repo))
     c = r.get_commit(sha)
 
@@ -51,7 +53,9 @@ def add_comment(holder, owner, repo, sha, username, comment, line_number, file_p
         file_path = github.GithubObject.NotSet
 
     c1 = c.create_comment(user_comment, path=file_path, position=line_number)
+
     print("Status:", c1.raw_headers["status"], " Rate-Limit Remaining:",
-          c1.raw_headers["x-ratelimit-remaining"])
+          c1.raw_headers["x-ratelimit-remaining"], "Rate-Limit Reset:",
+          time.strftime('%Y/%m/%d %H:%M:%S', time.localtime(float(c1.raw_headers["x-ratelimit-reset"]))))
     if c1 is None:
         print("Comment: %s on repo: %s for sha: %s could not be added!" % (comment, repo, sha))
