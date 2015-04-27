@@ -54,7 +54,7 @@ def add_comment(holder, owner, repo, sha, username, comment, line_number, file_p
 
     c1 = c.create_comment(user_comment, path=file_path, position=line_number)
 
-    print("Status:", c1.raw_headers["status"], " Rate-Limit Remaining:",
+    print("Status:", c1.raw_headers["status"], "Rate-Limit Remaining:",
           c1.raw_headers["x-ratelimit-remaining"], "Rate-Limit Reset:",
           time.strftime('%Y/%m/%d %H:%M:%S', time.localtime(float(c1.raw_headers["x-ratelimit-reset"]))))
     if c1 is None:
