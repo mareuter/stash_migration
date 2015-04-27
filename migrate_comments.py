@@ -21,6 +21,8 @@ if __name__ == "__main__":
                       help="Run the script but do not perform the migration actions.")
     parser.add_option("-m", "--manual-assocs", help="Provide a file with manual associations between "
                       "pull requests and merge commits.")
+    parser.add_option("-l", "--line-comment", default=0, help="Pass that comment number to start insertion "
+                      "from. Begins at 1.")
 
     (options, args) = parser.parse_args()
 
@@ -36,9 +38,10 @@ if __name__ == "__main__":
     no_migration = options.no_migration
     manual_assocs = options.manual_assocs
     db_connect_file = options.db_connect_file
+    line_comment = int(options.line_comment)
 
     # Delay time (seconds) to get around Github rate limiting limiter
-    delay_time = 3.0
+    delay_time = 2.5
 
     if verbosity > 0:
         print("Getting database connection.")
@@ -95,18 +98,20 @@ if __name__ == "__main__":
         pr_comment = "%s\n%s" % (pull_requests[pr_id]["title"], pull_requests[pr_id]["description"])
         comment_count += 1
         if not no_migration:
-            migration.add_comment(gh, organization, repo_name, merge_sha, merges[merge_sha]["user"],
-                                  pr_comment, None, None)
-            time.sleep(delay_time)
+            if comment_count > line_comment:
+                migration.add_comment(gh, organization, repo_name, merge_sha, merges[merge_sha]["user"],
+                                      pr_comment, None, None)
+                time.sleep(delay_time)
             print("Processed comment", comment_count)
 
         # Now go through all the PR comments
         for comment in pull_requests[pr_id]["comments"]:
             comment_count += 1
             if not no_migration:
-                migration.add_comment(gh, organization, repo_name, merge_sha, comment[0], comment[1],
-                                      comment[2], comment[3])
-                time.sleep(delay_time)
+                if comment_count > line_comment:
+                    migration.add_comment(gh, organization, repo_name, merge_sha, comment[0], comment[1],
+                                          comment[2], comment[3])
+                    time.sleep(delay_time)
                 print("Processed comment", comment_count)
 
     print("Number of comments:", comment_count)
